@@ -1,0 +1,649 @@
+
+
+
+ WAIT  Compiling...                                                                       17:28:28
+
+Compiling...
+
+
+ DONE  Compiled successfully in 6845ms                                                    17:28:35
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.e6ceffbae0a5bd04.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.e6ceffbae0a5bd04.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.2.25:8080/
+
+
+
+ WAIT  Compiling...                                                                       17:29:36
+
+Compiling...
+
+
+ DONE  Compiled successfully in 6098ms                                                    17:29:43
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.5606f9ab268218a4.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.5606f9ab268218a4.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.2.25:8080/
+
+
+ *  还原的历史记录 
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) liankedeMBP:vue_project lianke$ npm run serve
+
+> vue_project@0.1.0 serve
+> vue-cli-service serve
+
+ INFO  Starting development server...
+
+
+ DONE  Compiled successfully in 17016ms                                                   13:00:11
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+Webpack Bundle Analyzer is started at http://127.0.0.1:8888
+Use Ctrl+C to close it
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
+
+
+
+ WAIT  Compiling...                                                                       13:51:03
+
+Compiling...
+
+
+ DONE  Compiled successfully in 9006ms                                                    13:51:12
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main1_vue.57428e153ccdf1b5.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.57428e153ccdf1b5.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       13:52:02
+
+Compiling...
+
+
+ DONE  Compiled successfully in 5070ms                                                    13:52:07
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main1_vue.a3bb152d20306129.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.a3bb152d20306129.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       13:52:31
+
+Compiling...
+
+
+ DONE  Compiled successfully in 4412ms                                                    13:52:36
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main1_vue.5a82fd7a7271900f.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.5a82fd7a7271900f.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       13:58:30
+
+Compiling...
+
+
+ DONE  Compiled successfully in 6836ms                                                    13:58:37
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main1_vue.5d022a3f3f00de90.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.5d022a3f3f00de90.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       13:58:57
+
+Compiling...
+
+
+ DONE  Compiled successfully in 3589ms                                                    13:59:01
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main1_vue.b58aa0c5b2fa61fe.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.b58aa0c5b2fa61fe.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       14:18:41
+
+Compiling...
+
+
+ DONE  Compiled successfully in 6866ms                                                    14:18:48
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.6470406b3e1d1b01.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.6470406b3e1d1b01.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       14:18:56
+
+Compiling...
+
+
+ DONE  Compiled successfully in 4637ms                                                    14:19:01
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.c52793e41935c15e.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.c52793e41935c15e.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       14:19:18
+
+Compiling...
+
+
+ DONE  Compiled successfully in 4089ms                                                    14:19:22
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.2bd3a7dba23990ad.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.2bd3a7dba23990ad.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       14:19:27
+
+Compiling...
+
+
+ DONE  Compiled successfully in 4258ms                                                    14:19:32
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.8c424031f5a7e897.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.8c424031f5a7e897.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       14:38:22
+
+Compiling...
+
+
+ DONE  Compiled successfully in 5879ms                                                    14:38:28
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.093ae4654ac21d28.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.093ae4654ac21d28.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       14:45:57
+
+Compiling...
+
+
+ DONE  Compiled successfully in 5537ms                                                    14:46:03
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.e4133a8695358b78.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.e4133a8695358b78.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       15:40:09
+
+Compiling...
+
+
+ DONE  Compiled successfully in 5295ms                                                    15:40:15
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main1_vue.0a3da024d51b7826.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.0a3da024d51b7826.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       15:49:51
+
+Compiling...
+
+
+ DONE  Compiled successfully in 3601ms                                                    15:49:55
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.02789059d8baa1db.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.02789059d8baa1db.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       15:50:12
+
+Compiling...
+
+
+ DONE  Compiled successfully in 3000ms                                                    15:50:15
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.268de414f2b90385.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.268de414f2b90385.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       15:54:42
+
+Compiling...
+
+
+ DONE  Compiled successfully in 3529ms                                                    15:54:45
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.10bc20d9b2c5c1ef.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.10bc20d9b2c5c1ef.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       15:57:44
+
+Compiling...
+
+
+ DONE  Compiled successfully in 4788ms                                                    15:57:49
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.7311971fa147a42f.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.7311971fa147a42f.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       16:02:45
+
+Compiling...
+
+
+ DONE  Compiled successfully in 11036ms                                                   16:02:56
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.cd5077939c8e9f03.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.cd5077939c8e9f03.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       16:04:35
+
+Compiling...
+
+
+ DONE  Compiled successfully in 6872ms                                                    16:04:42
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.7dbe01453eadbd30.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.7dbe01453eadbd30.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       16:06:11
+
+Compiling...
+
+
+ DONE  Compiled successfully in 4893ms                                                    16:06:16
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.ceabde553d42462b.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.ceabde553d42462b.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       16:44:39
+
+Compiling...
+
+
+ DONE  Compiled successfully in 6213ms                                                    16:44:45
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.08a1a238bf8e9b3f.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.08a1a238bf8e9b3f.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       16:45:37
+
+Compiling...
+
+
+ DONE  Compiled successfully in 4416ms                                                    16:45:41
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.e5eb761268e79f3c.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.e5eb761268e79f3c.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.31.173:8080/
+
+
+
+ WAIT  Compiling...                                                                       16:49:35
+
+Compiling...
+
+
+ ERROR  Failed to compile with 1 error                                                    16:49:41
+
+ error  in ./src/components/Main2.vue?vue&type=style&index=0&id=4571adce&scoped=true&lang=css&
+
+Syntax Error: SyntaxError
+
+(6:17) /Users/lianke/Desktop/project/vue_project/src/components/Main2.vue Missed semicolon
+
+  4 | 
+  5 | .el-textarea__inner{
+> 6 |     color:white,
+    |                 ^
+  7 |     backgroud-color:black
+  8 | }
+
+
+
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/chunk-vendors.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main2_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/app.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main1_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/js/src_components_Main3_vue.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/src_components_Main2_vue.f98f3a5f413780c1.hot-update.js": no such file
+Error parsing bundle asset "/Users/lianke/Desktop/project/vue_project/dist/app.f98f3a5f413780c1.hot-update.js": no such file
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+ERROR in ./src/components/Main2.vue?vue&type=style&index=0&id=4571adce&scoped=true&lang=css& (./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12.use[2]!./node_modules/sass-resources-loader/lib/loader.js??clonedRuleSet-12.use[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/Main2.vue?vue&type=style&index=0&id=4571adce&scoped=true&lang=css&)
+Module build failed (from ./node_modules/postcss-loader/dist/cjs.js):
+SyntaxError
+
+(6:17) /Users/lianke/Desktop/project/vue_project/src/components/Main2.vue Missed semicolon
+
+  4 | 
+  5 | .el-textarea__inner{
+> 6 |     color:white,
+    |                 ^
+  7 |     backgroud-color:black
+  8 | }
+ @ ./node_modules/vue-style-loader/index.js??clonedRuleSet-12.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12.use[2]!./node_modules/sass-resources-loader/lib/loader.js??clonedRuleSet-12.use[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/Main2.vue?vue&type=style&index=0&id=4571adce&scoped=true&lang=css& 4:14-455 15:3-20:5 16:22-463
+ @ ./src/components/Main2.vue?vue&type=style&index=0&id=4571adce&scoped=true&lang=css& 1:0-516 1:0-516
+ @ ./src/components/Main2.vue 4:0-89
+ @ ./src/router/index.js 23:23-56
+ @ ./src/main.js 4:0-30 22:2-8
+
+webpack compiled with 1 error
+
+
+ WAIT  Compiling...                                                                       16:50:45
+
+Compiling...
+
+
+ DONE  Compiled successfully in 5513ms       
